@@ -1,2 +1,2 @@
-# mysql-alpine
+# mysql
 Mysql alpine image
