@@ -1,2 +1,2 @@
 # mysql
-Mysql alpine image
+Mysql docker image
